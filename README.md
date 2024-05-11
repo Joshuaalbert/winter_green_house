@@ -1,2 +1,4 @@
-# winter_green_house
-This uses modelling to find a greenhouse design that could house an exotic tree throughout the winter in Canada.
+## Winter Green House
+
+This is an attempt for my sister and I to find a suitable green house design that will be able to keep an exotic tree
+alive throughout the winter in Canada. We use simulations and differentiable programming to find the best design.

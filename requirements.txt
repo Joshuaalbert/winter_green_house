@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+vedo
+astropy
+ujson
+pydantic<2
+jax
+jaxlib
+tensorflow-probability
